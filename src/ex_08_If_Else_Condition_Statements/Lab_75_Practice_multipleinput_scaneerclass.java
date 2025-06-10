@@ -22,6 +22,8 @@ public class Lab_75_Practice_multipleinput_scaneerclass {
         System.out.println(name);
         System.out.println(salary);
 
+        scanner.close();
+
 
     }
 }
